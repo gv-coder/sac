@@ -7,10 +7,7 @@ Here I am making a new libary called sac (Server And Client).
 
 OO-Ummm-Ahh, oh yes, here are the docs: 
 ## 1. How to start a server
-`
-import Serv from sac
-import defalt_parse from sac.utils
-server = Serv()
-server.start()
-server.serve(defalt_parse)
-`
+`import Serv from sac`
+
+Here we import the `Serv` class from sac.
+This is what we will run to start out Server
