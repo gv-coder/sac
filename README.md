@@ -9,12 +9,8 @@ OO-Ummm-Ahh, oh yes, here are the docs:
 ## 1. How to start a server
 `
 import Serv from sac
-
 import defalt_parse from sac.utils
-
 server = Serv()
-
 server.start()
-
 server.serve(defalt_parse)
 `
